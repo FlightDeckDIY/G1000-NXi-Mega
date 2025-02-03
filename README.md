@@ -24,7 +24,7 @@ To get started with the G1000 NXi Mega:
 
 ## Documentation
 - **Schematics**: [View Schematics](./design/schematics)
-- **3D Models**: [View Enclosure Models](./design/3d-models)
+- **3D Models**: [View Enclosure Models]((https://cad.onshape.com/documents/151676533be7f9dde157788c/w/2f40da56e230263b51d6582b/e/3766505c1afa7c69551d04a4))
 - **Build Guide**: [Read the Guide](./docs/build-guide.md)
 
 ## How to Contribute
