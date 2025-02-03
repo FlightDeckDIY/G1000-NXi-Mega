@@ -23,7 +23,7 @@ To get started with the G1000 NXi Mega:
 - Arduino IDE and a spare Arduino for programming the Arduino Mega.
 
 ## Documentation
-- **Schematics**: [View Schematics](./design/schematics)
+- **Schematics**: [View Schematics](./G1000-NXi-Mega/Frame PCBs)
 - **3D Models**: [View Enclosure Models](https://cad.onshape.com/documents/151676533be7f9dde157788c/w/2f40da56e230263b51d6582b/e/3766505c1afa7c69551d04a4)
 - **Build Guide**: [Read the Guide](./docs/build-guide.md)
 
