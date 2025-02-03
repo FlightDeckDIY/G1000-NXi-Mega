@@ -24,7 +24,6 @@ To get started with the G1000 NXi Mega:
 
 ## Documentation
 - **Schematics**: [View Schematics](./design/schematics)
-- **PCB Files**: [Download PCB Files](./design/pcbs)
 - **3D Models**: [View Enclosure Models](./design/3d-models)
 - **Build Guide**: [Read the Guide](./docs/build-guide.md)
 
